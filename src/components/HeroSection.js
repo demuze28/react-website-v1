@@ -8,14 +8,16 @@ function HeroSection() {
     <div className='hero-container'>
       <video src='/videos/video-2.mp4' autoPlay loop muted />
       <h1>CERTiFi</h1>
-      <p>Decentralized Audit Protocol</p>
+      <p>
+       Decentralized Smart Contract Security 
+      </p>
       <div className='hero-btns'>
         <Button
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
         >
-          GET STARTED
+          Request a Quote
         </Button>
         <Button
           className='btns'

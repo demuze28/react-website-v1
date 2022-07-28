@@ -43,7 +43,7 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link
-                to='/services'
+                to='/Smartscan'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
@@ -62,7 +62,7 @@ function Navbar() {
 
             <li>
               <Link
-                to='/sign-up'
+                to={{ pathname: "https://telegram.com" }} target="_blank" 
                 className='nav-links-mobile'
                 onClick={closeMobileMenu}
               >

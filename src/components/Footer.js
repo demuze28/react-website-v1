@@ -32,7 +32,7 @@ function Footer() {
             <Link to='/sign-up'>How it works</Link>
             <Link to='/'>Testimonials</Link>
             <Link to='/'>Partners</Link>
-            <Link to='/'>Terms of Service</Link>
+            <Link to='/terms'>Terms of Service</Link>
           </div>
           <div class='footer-link-items'>
             <h2>Contact Us</h2>
